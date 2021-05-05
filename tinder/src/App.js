@@ -4,7 +4,7 @@ function App() {
 	return (
 		<div className="App">
 			<h1>Tinder</h1>
-			<p>Hello</p>
+			<p>This the First version </p>
 		</div>
 	);
 }
